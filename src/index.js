@@ -1,3 +1,13 @@
-import validator from './validator.js';
+import validator from './validator.js'; 
+//input para insertar número de tarjeta
+let botonValidar = document.getElementById("botonValidar");
+botonValidar.addEventListener('click', function(){
 
-console.log(validator);
+    let numeroTarjeta = document.getElementById('numeroTarjeta').value;
+    console.log(validator.isValid(numeroTarjeta))
+//
+//    console.log(numeroTarjeta);
+
+
+}
+)
