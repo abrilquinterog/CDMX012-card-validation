@@ -1,8 +1,8 @@
 const validator = { 
-    isValid: function(calNumber){
-        let digitosTarjetaReversa = calNumber.split('').reverse(); //para crear un array con el número ingresado
+    isValid: function(numeroTarjeta){
+        let digitosTarjetaReversa = numeroTarjeta.split('').reverse(); //para crear un array con el número ingresado
         console.log(digitosTarjetaReversa);
-        console.log(calNumber);
+        console.log(numeroTarjeta);
         let sumaFinal=0;
     
         // Recorrer el array para convertir string en números.
@@ -32,63 +32,25 @@ const validator = {
                  return false
          }
 
-    }
+    },
 
-           
-           
-
-        //for (let indice4=0; indice4<digitosTarjetaReversa.lenght; indice4++){
-            //sumaFinal= sumaFinal+digitosTarjetaReversa[indice4];
-            //console.log(sumaFinal);
-        
-
-
-            
-        
-        
-            
-            //for (let b = 1; b < digitosTarjetaReversa.length; b+=2) {
-            //if(digitosTarjetaReversa[b] > 9){
-            //digitosTarjetaReversa[b] -= 9;}
-            //console.log(digitosTarjetaReversa);
-            //numerosParaSumar.push(digitosTarjetaReversa);
-            //console.log(numerosParaSumar);
-
-
-            //for (let s = 0; s< numerosParaSumar.length; s++) {
-                //sumaFinal +=numerosParaSumar[s];}
-                //console.log(sumaFinal);
-
-                     //if(sumaFinal % 10 === 0){
-                       //  return true;}
-                       //  else{(sumaFinal != 0)
-                    // return false;} 
-           
-     
-        
-        
-
-
-
-
-
-
-       //let digitoActual = digitosTarjetaReversa[i];
-       //console.log (digitoActual);
-       //console.log(i);
-       //if ([i] % 2 !=0){
-           //digitoActual*=2;
-           //if (digitoActual > 9){
-             //  digitoActual =-9
-          // }
-       //}
-       //suma += digitoActual;
-      // console.log(suma);
-    //}
-    //console.log("La tarjeta es")
-    //return "jajajajaja"
-    //}
     
+        maskify: function (numeroTarjeta) {
+            let arregloCalNumber = numeroTarjeta.split('')
+            let arregloVacio = ''
+           
+          console.log(arregloCalNumber);
+           for (let i=0; i<arregloCalNumber.length; i++){
+            if(i < arregloCalNumber.length-4){
+                arregloVacio += '#'
+            }else {
+                arregloVacio += arregloCalNumber[i]
+            }
+           
+        };
+        return arregloVacio;
+      }
+
     
   
 };
