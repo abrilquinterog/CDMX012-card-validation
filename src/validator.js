@@ -27,9 +27,9 @@ const validator = {
              console.log(sumaFinal);
          }
          if (sumaFinal%10 ==0){
-             alert('La tarjeta de crédito es válida');} 
+             return true} 
              else {
-                 alert('La tarjeta de crédito no es válida')
+                 return false
          }
 
     }
