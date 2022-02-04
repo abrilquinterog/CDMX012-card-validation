@@ -12,7 +12,7 @@ botonValidar.addEventListener('click', function(){
     
    
    let resMaskify = validator.maskify(numeroTarjeta.value)
-  console.log(resMaskify, numeroTarjeta.value);
+  //console.log(resMaskify, numeroTarjeta.value);
    numeroTarjeta.value = resMaskify;
     
 })
