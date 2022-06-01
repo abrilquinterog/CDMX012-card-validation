@@ -27,11 +27,9 @@ la suma de sus dígitos finales es un múltiplo de 10.
 ![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
 ## 2. Resumen del proyecto
-
-En este proyecto tendrás que construir una aplicación web que le permita a un
-usuario validar el número de una tarjeta de crédito. Además, tendrás que
-implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos
-los últimos cuatro.
+Este proyecto es una aplicación web que permite al usuario validar el número de 
+una tarjeta de crédito. Además, tendrás que implementar funcionalidad para ocultar 
+todos los dígitos de una tarjeta menos los últimos cuatro.
 
 La temática es libre. Tú debes pensar en qué situaciones de la vida real se
 necesitaría validar una tarjeta de crédito y pensar en cómo debe ser esa
