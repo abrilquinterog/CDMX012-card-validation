@@ -426,11 +426,4 @@ Desarrollo Front-end:
 * Tests unitarios
 * [Documentación de NPM](https://docs.npmjs.com/)
 
-Organización del Trabajo:
 
-* [Metodologías Ágiles](https://www.youtube.com/watch?v=v3fLx7VHxGM)
-* [Scrum en menos de 2 minutos](https://www.youtube.com/watch?v=TRcReyRYIMg)
-* [Scrum en Detalle](https://www.youtube.com/watch?v=nOlwF3HRrAY&t=297s). No
-  esperamos que hagas todo eso desde este proyecto. Iremos profundizando poco a
-  poco a lo largo del -_bootcamp_.
-* [Blog: cómo funciona el algoritmo de Luhn](http://www.quobit.mx/asi-funciona-el-algoritmo-de-luhn-para-generar-numeros-de-tarjetas-de-credito.html).
