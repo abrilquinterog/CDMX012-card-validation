@@ -1,35 +1,21 @@
 # Tarjeta de crédito válida
 
-## Índice
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
+## 1. Acerca del proyecto
 
-***
+Esta es una plicación web que permite al usuario validar el número de una tarjeta de crédito. 
+Fue creada con HTML, CSS y Javascript.
 
-## 1. Preámbulo
+La interfaz permite al usuario:
 
-El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
-también llamado algoritmo de módulo 10, es un método de suma de verificación,
-se utiliza para validar números de identificación; tales como el IMEI de los
-celulares, tarjetas de crédito, etc.
+* Insertar el número que desea validar.
+* Ver el resultado si es válido o no.
+* Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
+* No puede ingresar un campo vacío.
 
-Este algoritmo es simple. Obtenemos la reversa del número a verificar (que
-solamente contiene dígitos [0-9]); a todos los números que ocupan una posición
-par se les debe multiplicar por dos, si este número es mayor o igual a 10,
-debemos sumar los dígitos del resultado; el número a verificar será válido si
-la suma de sus dígitos finales es un múltiplo de 10.
+Este módulo está pensado y aplicado al sitio web de una cafeteria cuyas operaciones son en línea, una vez que el usuario desea pagar 
+por su pedido, está le ayudará a saber que la tarjeta con la que desea pagar es válida para poder realizar la transacción.
 
-![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
-
-## 2. Resumen del proyecto
-Este proyecto es una aplicación web que permite al usuario validar el número de 
-una tarjeta de crédito. Además, tendrás que implementar funcionalidad para ocultar 
-todos los dígitos de una tarjeta menos los últimos cuatro.
 
 La temática es libre. Tú debes pensar en qué situaciones de la vida real se
 necesitaría validar una tarjeta de crédito y pensar en cómo debe ser esa
@@ -224,13 +210,6 @@ para definir el producto final a nivel de experiencia y de interfaz.
 
 ### Interfaz de usuario (UI)
 
-La interfaz debe permitir al usuario:
-
-* Insertar el número que queremos validar.
-* Ver el resultado si es válido o no.
-* Ocultar todos los dígitos de su número de tarjeta menos los últimos
-4 caracteres.
-* No debe poder ingresar un campo vacío.
 
 ### UX (Diseño de experiencia de usuario)
 
