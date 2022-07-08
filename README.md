@@ -23,7 +23,7 @@ Este módulo está pensado y aplicado al sitio web de una cafeteria cuyas operac
 por su pedido, está le ayudará a saber que la tarjeta con la que desea pagar es válida para poder realizar la transacción.
 
 
- <img alt="prototipo" src="https://www.figma.com/file/LNcCqi4jzzWyt9VjEGeAVR/Card-Validation?node-id=209%3A2" width="200" height="200">
+ <img alt="prototipo" src="https://github.com/abrilquinterog/CDMX012-card-validation/blob/main/src/assets/HiFiProt.png?raw=true">
 
 
 
