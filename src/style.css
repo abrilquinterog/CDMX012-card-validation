@@ -4,50 +4,45 @@
     box-sizing: border-box;
 }
 
-html{
+html {
   height: 100%;
 }
 
-body{
+body {
   height: 100%;
+
 }
+
 .main {
     background-color:#F1F8E9;
-    position: absolute;
+    display: flex;
+    flex-direction: row;
     width: 100%;
-    height: 600px;
+    height: 78%;
     left: 0px;
     top: 100px;
     padding: 40px;
 }
+
 .encabezado {
     display:flex;
     flex-direction: row;
     width: 100% ;
-    height: 100px;
+    height: 12%;
     top: 0px;
     background: #FFFFFF;
     padding: 30px;
 }
 .logo{
   flex-grow: 2;
+  align-self: center;
 }
 
-.rectangle{
-position: absolute;
-width: 600px;
-height: 500px;
-left: 820px;
-top: 20px;
-
-background: rgba(255, 255, 255, 0.83);
-border-radius: 52px;
-}
 
 h1{
 font-family: Roboto;
 font-style: normal;
-font-weight: normal;
+font-weight: bolder;
 font-size: 42px;
 line-height: 42px;
 display: inline-block;
@@ -78,44 +73,46 @@ button{
     width: 50%;
 }
 .control{
-    width: 50%;
-    padding: 10px;
+    width: 61%;
+    padding: 12px;
     border-radius: 4px;
-    font-size: 13px;
+    font-size: 18px;
     line-height: 1.3;
   }
   label {
-      font-size: 17px;
+      font-size: 20px;
       font-family: Roboto;
       font-weight: normal;
-      padding: 15px;
+      padding: 25px;
       line-height: 25px;
   }
 
   footer{
     position: absolute;
     width: 100%;
-    height: 65px;
+    height: 10%;
     left: 0px;
     bottom: 0px;
     background: #444444;
+    display: flex;
+    justify-content: space-around;
+
   }
   .company {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
-    line-height: 50px;
-    text-align: left;
+    text-align: center;
     padding: 15px;
     color: rgb(247, 246, 244);
+    align-self: center;
   }
 
   
   .container {
-    position: absolute;
     width: 600px;
-    height: 510px;
+    height: 500px;
     top: 30px;
     left: 800px;
     background: rgba(255, 255, 255, 0.83);
@@ -147,4 +144,67 @@ button{
     padding: 3px;
   }
 
-  
+  #bloqueValido,
+  #bloqueNoValido{
+    display: none;
+  }
+
+  h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 30px;
+    display:inline-block;
+    text-align: center;
+    }
+
+  .tienda{
+    display: flex;
+    align-self: center;
+  }
+
+
+#bloqueValido{
+  text-align: center;
+  color:#3f810d;
+  padding: 10px;
+  font-size: 25px;
+  font-family: Roboto;
+  font-weight: bold;
+  margin:4px;
+}
+
+#bloqueNoValido {
+  text-align: center;
+  color:#b0b606;
+  padding: 10px;
+  font-size: 25px;
+  font-family: Roboto;
+  font-weight: bold;
+  margin:4px;
+}
+
+.shop{
+  margin: 10px;
+  font-weight: bold;
+}
+
+.contact {
+  margin: 10px;
+  font-weight: bold;
+}
+
+.about {
+  margin: 10px;
+  font-weight: bold;
+}
+
+.imgcont{
+  width: 55%;
+}
+
+.redes{
+  align-self: center;
+  justify-self: flex-end;
+}
