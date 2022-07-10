@@ -4,7 +4,7 @@
 ## 1. Acerca del proyecto
 
 Esta es una plicación web que permite al usuario validar el número de una tarjeta de crédito. 
-Fue creada con HTML, CSS y Javascript.
+Está basada en el algoritmo de Luhn y fue creada con HTML, CSS y Javascript.
 
 <div>
    <img alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="60" height="60">
