@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tarjeta de crédito válida</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+      <header class="encabezado">
+      <div class="logo">
+        <img id="imagen1" src="assets/Cup.png" width="40px" height="40px" >
+        <h1>TERRACAFÉ</h1>
+      </div>
+      <div class="tienda">
+      <h2 class="shop">Tienda</h2>
+      <h2 class="about">Acerca de </h2> 
+      <h2 class="contact">Contacto</h2>
+      </div>
+    </header>
+    <div class= "main">
+      <div class="imgcont">
+      <img id="imagen1" src="assets/tazacafe.png" width="675px" height="520px" >
+      </div>
+      <div class="container">
+        <div class="item1">CARD VALIDATION</div>
+        <div class="item2"><img id="imagen2" src="assets/credit-card-front.png" width="275px" ></div>
+        <div class="item3">
+      <label for="tarjeta">Para validar el número de su tarjeta </label> <br>
+      <input class="control" type="text" id="numeroTarjeta" placeholder="Ingrese los 16 dígitos ubicados al frente" required onkeypress="return event.charCode>=48&&event.charCode<=57"> <br>
+        </div>
+        <div class="item4">
+          <button type="button" id="botonValidar"> VALIDAR </button>
+        </div>
+        <div id="bloqueValido">
+          <p>La tarjeta de crédito es válida</p>
+        </div>
+        <div id="bloqueNoValido">
+          <p>La tarjeta de crédito no es válida</p>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <p class="company">2022. The Terracafé Company. Todos los derechos reservados </p> 
+      <img class="redes" src="assets/redes.png" width="230px" height="45px" >
+    </footer>
+    <script src="index.js" type="module"></script>
+  </body>
+</html>
