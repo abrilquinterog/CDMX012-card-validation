@@ -23,26 +23,12 @@ Este módulo está pensado y aplicado al sitio web de una cafeteria cuyas operac
 por su pedido, está le ayudará a saber que la tarjeta con la que desea pagar es válida para poder realizar la transacción.
 
 
+### Boceto de baja fidelidad
+<img alt="prototipo" src="https://i.postimg.cc/PxCZDJ3w/photo1657478310.jpg" width="600" height="450">
+
+### Prototipo de alta fidelidad
  <img alt="prototipo" src="https://github.com/abrilquinterog/CDMX012-card-validation/blob/main/src/assets/HiFiProt.png?raw=true">
 
-
-
-
-##### `README.md`
-
-Debe contener lo siguiente:
-
-* Un título con el nombre de tu proyecto.
-* Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
-* La imagen final de tu proyecto.
-* Investigación UX:
-  1. Explicar quiénes son los usuarios y los objetivos en relación con el
-    producto.
-  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
-    usuarios.
-  3. Luego colocarás la foto de tu primer prototipo en papel.
-  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
-  5. Imagen del prototipo final.
 
 
 
