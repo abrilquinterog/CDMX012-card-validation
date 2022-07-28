@@ -1,4 +1,5 @@
 # Tarjeta de crédito válida ✔💳
+<img alt="banner" src="https://i.postimg.cc/RFsvPdSt/CREDIT-CARD-VALIDATION01.png" >
 
 
 ## 1. Acerca del proyecto
