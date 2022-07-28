@@ -4,13 +4,13 @@
 
 ## 1. Acerca del proyecto
 
-Esta es una plicación web que permite al usuario validar el número de una tarjeta de crédito. 
-Está basada en el algoritmo de Luhn y fue creada con HTML, CSS y Javascript.
+Esta es una plicación web que permite al usuario validar el número de una tarjeta de crédito. Prototipada con Figma y desarrollada con HTML, CSS y Javascript.
 
 <div>
-   <img alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="60" height="60">
-  <img alt="html 5" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="60" height="60">
-   <img alt="css" src="https://w7.pngwing.com/pngs/241/797/png-transparent-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-text-thumbnail.png" width="60" height="60">
+   <img alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="80" height="80">
+  <img alt="html 5" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="80" height="80">
+   <img alt="css" src="https://w7.pngwing.com/pngs/241/797/png-transparent-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-text-thumbnail.png" width="80" height="80">
+    <img alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" width="60" height="80">
  </div>
 
 La interfaz permite al usuario:
