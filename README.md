@@ -12,16 +12,16 @@ Esta es una plicación web que permite al usuario validar el número de una tarj
    <img alt="css" src="https://w7.pngwing.com/pngs/241/797/png-transparent-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-text-thumbnail.png" width="80" height="80">
     <img alt="figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" width="60" height="80">
  </div>
+<br>
+La interfaz permite al usuario:<br>
 
-La interfaz permite al usuario:
+✨ Insertar el número de tarjeta de crédito que desea validar.<br>
+✨ Ver el resultado si es válido o no mediante un mensaje en pantalla.<br>
+✨ Una vez que ha dado click en el botón de validar todos los dígitos de su número de tarjeta se ocultan menos los últimos 4 caracteres. <br>
+✨ No puede ingresar un campo vacío. <br>
 
-* Insertar el número que desea validar.
-* Ver el resultado si es válido o no.
-* Ocultar todos los dígitos de su número de tarjeta menos los últimos 4 caracteres.
-* No puede ingresar un campo vacío.
+Este módulo puede ser aplicable a una variedad amplia de negocios en línea, en este caso está pensado y aplicado al sitio web de una cafeteria cuyas operaciones son en línea, una vez que el usuario desea pagar por su pedido, está app le ayudará a saber que la tarjeta con la que desea pagar es válida para poder realizar la transacción de manera exitosa. 
 
-Este módulo está pensado y aplicado al sitio web de una cafeteria cuyas operaciones son en línea, una vez que el usuario desea pagar 
-por su pedido, está le ayudará a saber que la tarjeta con la que desea pagar es válida para poder realizar la transacción.
 
 
 ### Boceto de baja fidelidad
