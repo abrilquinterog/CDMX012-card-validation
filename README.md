@@ -20,12 +20,14 @@ La interfaz permite al usuario:<br>
 ✨ Una vez que ha dado click en el botón de validar todos los dígitos de su número de tarjeta se ocultan menos los últimos 4 caracteres. <br>
 ✨ No puede ingresar un campo vacío. <br>
 
+<img alt="figma" src="https://i.postimg.cc/FHFNLZxC/CREDIT-CARD-VALIDATION-1.png">
+
 Este módulo puede ser aplicable a una variedad amplia de negocios en línea, en este caso está pensado y aplicado al sitio web de una cafeteria cuyas operaciones son en línea, una vez que el usuario desea pagar por su pedido, está app le ayudará a saber que la tarjeta con la que desea pagar es válida para poder realizar la transacción de manera exitosa. 
 
 
 
 ### Boceto de baja fidelidad
-<img alt="prototipo" src="https://i.postimg.cc/PxCZDJ3w/photo1657478310.jpg" width="600" height="450">
+<img alt="prototipo" src="https://i.postimg.cc/PxCZDJ3w/photo1657478310.jpg">
 
 ### Prototipo de alta fidelidad
  <img alt="prototipo" src="https://github.com/abrilquinterog/CDMX012-card-validation/blob/main/src/assets/HiFiProt.png?raw=true">
