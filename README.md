@@ -22,6 +22,7 @@ La interfaz permite al usuario:<br>
 
 <img alt="figma" src="https://i.postimg.cc/FHFNLZxC/CREDIT-CARD-VALIDATION-1.png">
 
+A partir de la pandemia muchos negocios tuvieron que reinventarse y sus operaciones fueron empujadas a realizarse desde el mundo dogital, es por ello importante tanto para los usuarios como para los duesños de los negocios, contar con herramientas que les permitan verificar la validez de los métodos de pago.
 Este módulo puede ser aplicable a una variedad amplia de negocios en línea, en este caso está pensado y aplicado al sitio web de una cafeteria cuyas operaciones son en línea, una vez que el usuario desea pagar por su pedido, está app le ayudará a saber que la tarjeta con la que desea pagar es válida para poder realizar la transacción de manera exitosa. 
 
 
