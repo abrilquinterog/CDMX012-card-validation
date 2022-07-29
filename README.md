@@ -30,7 +30,11 @@ Este módulo puede ser aplicable a una variedad amplia de negocios en línea, en
 <img alt="prototipo" src="https://i.postimg.cc/PxCZDJ3w/photo1657478310.jpg">
 
 ### Prototipo de alta fidelidad
- <img alt="prototipo" src="https://github.com/abrilquinterog/CDMX012-card-validation/blob/main/src/assets/HiFiProt.png?raw=true">
+ <img alt="prototipo" src="https://github.com/abrilquinterog/CDMX012-card-validation/blob/main/src/assets/Frame2.png?raw=true">
+ <img alt="prototipo" src="https://github.com/abrilquinterog/CDMX012-card-validation/blob/main/src/assets/Frame3.png?raw=true">
+ <img alt="prototipo" src="https://github.com/abrilquinterog/CDMX012-card-validation/blob/main/src/assets/Frame4.png?raw=true">
+ 
+ 
 
 
 
